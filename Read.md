@@ -9,3 +9,6 @@ manual> https://tailwindcss.com/docs/installation/using-postcss
 > npx tailwindcss init
 > or
 > npx tailwindcss init -p
+
+> npm i phosphor-react
+> npm i @headlessui/react
