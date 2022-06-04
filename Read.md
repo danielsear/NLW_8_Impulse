@@ -12,3 +12,5 @@ manual> https://tailwindcss.com/docs/installation/using-postcss
 
 > npm i phosphor-react
 > npm i @headlessui/react
+> npm install -D @tailwindcss/forms
+> npm install --save-dev tailwind-scrollbar
