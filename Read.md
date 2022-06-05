@@ -16,3 +16,5 @@ manual> https://tailwindcss.com/docs/installation/using-postcss
 > npm install --save-dev tailwind-scrollbar
 
 > npm i html2canvas
+
+> npm i axios
